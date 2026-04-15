@@ -1,0 +1,12 @@
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore node_modules or dependencies
+node_modules/
+
+build/
+package-lock.json
+.DS_Store
